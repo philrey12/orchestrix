@@ -1,2 +1,2 @@
 # orchestrix
-A Project Management Application
+A Project Management Application (WIP)
